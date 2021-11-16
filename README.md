@@ -1,5 +1,5 @@
 # Air-Pollution-in-Seoul
-<b>Aim:</b> <br>•	Investigating the best algorithms for clustering and PM2.5 prediction. 
+<b>Aim:</b> <br>Investigating the best algorithms for clustering and PM2.5 prediction. 
 <br><br>
 <b>Background:</b> <br> Recently, the air quality is getting worse and worse. With many serious air pollutions, 
 people  have  become  more  aware  of  the  importance  of  air  protection.  Among  them, 
